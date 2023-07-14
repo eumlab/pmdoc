@@ -11,6 +11,5 @@ layout: main
 ### header 3
 home content
 
-![](http://eumlab.com/assets/images/icons/120/prometronome.png)
-
+![](assets/img/xigua_poster.png)
 asdf
