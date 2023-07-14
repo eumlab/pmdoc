@@ -7,3 +7,6 @@ title: "FAQ"
 permalink: /faq
 ---
 # Pro metronome docs FAQ
+## Header two 2
+### header 3
+faq content
