@@ -6,10 +6,9 @@ layout: main
 ---
 
 
-# Pro metronome docs home here
-## Header two 2
-### header 3
-home content
+## Pro Metronome Document (TBA)
+### Header 2
+#### header 3
+<!-- home content -->
 
-![](assets/img/xigua_poster.png)
-asdf
+<!-- ![](assets/img/xigua_poster.png) -->
