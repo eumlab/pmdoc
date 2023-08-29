@@ -4,9 +4,8 @@
 
 layout: main
 ---
-
-
 ## Pro Metronome Document (TBA)
+---
 ### Header 2
 #### header 3
 <!-- home content -->

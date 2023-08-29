@@ -6,5 +6,5 @@ layout: default
 title: "FAQ"
 permalink: /faq
 ---
-# Pro metronome docs FAQ
-(TBA)
+# Pro metronome 常见问题
+(待补充)
