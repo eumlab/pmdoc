@@ -7,4 +7,5 @@ title: "FAQ"
 permalink: /faq
 ---
 # Pro metronome 常见问题
-(待补充)
+即将上线！
+如果您目前有使用问题，欢迎邮件联系 team@eumlab.com
