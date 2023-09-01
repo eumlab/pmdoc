@@ -4,10 +4,8 @@
 
 layout: main
 ---
-## Pro Metronome Document (TBA)
+# Pro metronome FAQ
 ---
-### Header 2
-#### header 3
-<!-- home content -->
 
-<!-- ![](assets/img/xigua_poster.png) -->
+Coming Soon!
+If you have trouble with the app usage, please feel free to consult us via Email: team@eumlab.com
