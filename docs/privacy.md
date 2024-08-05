@@ -39,6 +39,21 @@ Welcome to Pro Metronome. Our application is designed with musicians and music l
     - **Preference Cookies** to remember your settings.
     - **Security Cookies** for protective purposes.
 
+- ### **Obtaining Mobile Permissions:**
+
+    - `android.permission.READ_PHONE_STATE`: Permission to access phone status, used to obtain the device's IMEI, Android ID, and phone number information. This information is used for Umeng statistics and server interface calls to identify the unique device and to obtain the MAC address for calling Alibaba Cloud open API parameters.
+    - `android.permission.WRITE_EXTERNAL_STORAGE`: Permission to read SD card storage, used for caching data.
+    - `android.permission.CAMERA`: Permission to access the camera and use the flashlight.
+    - Permission to access the accelerometer sensor, used to monitor the screen orientation.
+
+- ### **Description of Third-party SDKs Used:**
+
+
+- **Umeng Statistics and Sharing**
+  - Data Collected: Brand, model, IMEI, IMSI, Android ID, ICCID, BSSID, SSID, phone number, network connection, IP, MAC, software list, device hardware serial number, gyroscope sensor, unique device identifier.
+  - Purpose: To help users query operational issues.
+  - Official Link: [Umeng SDK](https://www.umeng.com)
+
 ---
 
 ## **2. Use of Data**
