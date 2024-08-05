@@ -11,7 +11,7 @@ permalink: /privacy
 
 ---
 
-**Last Updated**: August 18, 2023
+**Last Updated**: August 5, 2024
 
 ---
 
